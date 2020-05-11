@@ -336,15 +336,15 @@ padding:0px;
 /* =============================================================
   FOOTER SECTION STYLES
  ============================================================ */
-footer {
-    padding: 20px;
-    font-size: 15px;
-    text-align: center;
-    font-weight: 900;
-    background-color: rgba(237, 237, 237, 1);
-}
+/*footer {*/
+/*    padding: 20px;*/
+/*    font-size: 15px;*/
+/*    text-align: center;*/
+/*    font-weight: 900;*/
+/*    background-color: rgba(237, 237, 237, 1);*/
+/*}*/
 
-    footer a, footer a:hover {
-        color: #000;
-        text-decoration: none;
-    }
+/*    footer a, footer a:hover {*/
+/*        color: #000;*/
+/*        text-decoration: none;*/
+/*    }*/
